@@ -66,3 +66,44 @@ Dont a lot of interviewing
   - continue to ask more difficult questions in that area, until you discover the depth of knowledge on aparticular subject
 - okay to not know, but **not okay** to make up an answer
 - try not to let 'not knowing' affect your confidence
+
+## whiteboarding preparation
+- IDE-less! No 'VS Code', auto-complete, syntax highlighting, etc.
+- don't need to expect FAANG type 'brain teaser' questions
+  - rotating 2d matrix in place
+- Usually 'string algorithm' type problems from my experience
+  - can practice on whiteboard, pen and paper, simple text editor
+  - websites like LeetCode, focus on 'easy' type problems
+- expect to ask clarifying questions
+  - communicate their approach
+- to practice, write them out on paper, get that syntax solid
+
+## what to expect (whiteboarding, cont.)
+- drawing out past application
+  - how would you draw a diagram of your past app
+  - how was data flowing in the app, ERD, UUIDs, etc
+- building application
+  - given some starting point, build application. either live or take home
+- handling some soft of on the job activity
+  - solving x issue in app? debugging?
+
+## 'researching' the company makes for a smoother interview
+Glassdoor
+- revenue? employees? business domain? different sectors of business?
+What is the onboarding process like
+- what does onboarding look like?
+Study jobbdescription, look up terms mentioned in job description
+- 'how do you use tech x in this context y?'
+- any acronyms you are unfamiliar with?
+Has the company published 'values' or 'mission statement'?
+- ask about initiatives they've shared
+
+## job description
+- can be crazy
+- if you feel like you meet 60% of them dont count yourself out
+
+## questions for this specific job description
+- listed 5000 javascript libraries, what tech stack is the team/company using?
+- cloud services... what are they using?
+- why is the position open?
+
